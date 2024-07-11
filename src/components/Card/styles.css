@@ -1,0 +1,15 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 150px;
+    width: 300px;
+    padding: 15px;
+    background-color: rgb(182, 122, 43);
+    border-radius: 16px;
+}
+
+.card-block {
+    display: flex;
+    justify-content: space-between;
+}
